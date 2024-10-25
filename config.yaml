@@ -1,0 +1,58 @@
+projectName: Compliance and Standards
+jsonFilePath: ./input.json
+baseUrl: https://gracker.ai
+portalHeading: 'Welcome to GrackerAI: Your Compliance and Standards Partner'
+portalDescription: >-
+  GrackerAI is the world's first AI-driven growth engine for cybersecurity B2B
+  SaaS, helping you engage prospects and fuel expansion through customized
+  strategies.
+portalTitle: GrackerAI - Compliance and Standards Solutions
+searchPlaceholder: Search for compliance solutions...
+useAlphabetsCategory: true
+homeLink: https://gracker.ai
+logoLink: /
+ctaText: Get Started
+aboutLink: https://gracker.ai/about/
+productsLink: https://gracker.ai/features/
+logoImgUrl: https://gracker.ai/_astro/logo-white.DuNP12gY_Z22gpAz.svg
+ctaLink: https://portal.gracker.ai/
+copyrightText: '&copy; Copyright 2024, Gracker.'
+faviconUrl: https://gracker.ai/favicon.ico
+googleTagManagerId: GTM-MB8NQN6
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/gracker-ai/
+  - platform: Twitter
+    url: https://x.com/grackerAI
+  - platform: Instagram
+    url: https://www.instagram.com/grackerai/
+theme:
+  primaryColor: '#000000'
+  secondaryColor: '#ffffff'
+  backgroundColor: '#f7f7f7'
+  textColor: '#333333'
+  accentColor: '#ff4c00'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Poppins
+    weights:
+      - 400
+      - 500
+      - 600
